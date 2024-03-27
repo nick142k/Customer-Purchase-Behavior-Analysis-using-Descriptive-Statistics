@@ -1,4 +1,4 @@
-🛒 Customer Purchase Behavior Analysis 📊
+### 🛒 Customer Purchase Behavior Analysis 📊
 Overview
 This project analyzes customer purchase behavior using a dataset containing information about customer demographics and purchasing habits. The goal is to gain insights that can help optimize marketing efforts and improve customer engagement.
 

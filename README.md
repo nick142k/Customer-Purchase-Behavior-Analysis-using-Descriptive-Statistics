@@ -1,11 +1,12 @@
 ### 🛒 Customer Purchase Behavior Analysis 📊
-Overview
+## Overview:
 This project analyzes customer purchase behavior using a dataset containing information about customer demographics and purchasing habits. The goal is to gain insights that can help optimize marketing efforts and improve customer engagement.
 
-Dataset ℹ️
+## Dataset ℹ️
 The dataset includes the following columns:
 
-Response: 1 if customer accepted the offer in the last campaign, 0 otherwise
+## Response: 
+1 if customer accepted the offer in the last campaign, 0 otherwise
 ID: Unique ID of each customer
 Year_Birth: Age of the customer
 Complain: 1 if the customer complained in the last 2 years
@@ -28,7 +29,7 @@ NumWebPurchases: Number of purchases made through the company's website
 NumWebVisitsMonth: Number of visits to company's website in the last month
 Recency: Number of days since the last purchase
 
-Tasks 📝
+## Tasks 📝
 Basic CleanUp: Clean and preprocess the dataset, handle missing values, and ensure consistent data types.
 Descriptive Statistics: Calculate measures of central tendency and dispersion for key variables, and identify outliers if necessary.
 Probability Distributions: Identify variables that could follow specific probability distributions and calculate probabilities and expected values.
@@ -37,13 +38,14 @@ Conclusion and Recommendations: Summarize key findings and make recommendations 
 Getting Started 🚀
 To run the analysis, you can use Jupyter Notebook or any Python IDE. Make sure you have the necessary libraries installed (e.g., pandas, numpy, matplotlib, seaborn).
 
-Clone the repository: git clone https://github.com/yourusername/customer-purchase-analysis.git
-Install the required libraries: pip install pandas numpy matplotlib seaborn
-Open the Jupyter Notebook file: customer_purchase_analysis.ipynb
-Follow the instructions in the notebook to run the analysis.
 
-Google Colab 📓
-For a live interactive version of this analysis, you can view it on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RBY24Skbo_QuHV6DxNVO8v8k516ICg0w?usp=sharing]
 
-Contributors 👨‍💻
+## Install the required libraries: 
+pip install pandas, numpy,matplotlib, and  seaborn
+
+
+## Google Colab 📓
+For a live interactive version of this analysis, you can view it on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RBY24Skbo_QuHV6DxNVO8v8k516ICg0w?usp=sharing)
+
+## Contributors 👨‍💻
 Nikhil Sharma

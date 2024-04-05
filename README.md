@@ -4,28 +4,28 @@ This project analyzes customer purchase behavior using a dataset containing info
 
 ## Dataset ℹ️
 The dataset includes the following columns:
-Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
-ID - Unique ID of each customer
-Year_Birth - Age of the customer
-Complain - 1 if the customer complained in the last 2 years
-Dt_Customer - date of customer's enrollment with the company
-Education - customer's level of education
-Marital - customer's marital status
-Kidhome - number of small children in customer's household
-Teenhome - number of teenagers in customer's household
-Income - customer's yearly household income
-MntFishProducts - the amount spent on fish products in the last 2 years
-MntMeatProducts - the amount spent on meat products in the last 2 years
-MntFruits - the amount spent on fruits products in the last 2 years
-MntSweetProducts - amount spent on sweet products in the last 2 years
-MntWines - the amount spent on wine products in the last 2 years
-MntGoldProds - the amount spent on gold products in the last 2 years
-NumDealsPurchases - number of purchases made with discount
-NumCatalogPurchases - number of purchases made using catalog (buying goods to be shipped through the mail)
-NumStorePurchases - number of purchases made directly in stores
-NumWebPurchases - number of purchases made through the company's website
-NumWebVisitsMonth - number of visits to company's website in the last month
-Recency - number of days since the last purchase
+1. Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
+1. ID - Unique ID of each customer
+2. Year_Birth - Age of the customer
+3. Complain - 1 if the customer complained in the last 2 years
+4. Dt_Customer - date of customer's enrollment with the company
+5. Education - customer's level of education
+6. Marital - customer's marital status
+7. Kidhome - number of small children in customer's household
+8. Teenhome - number of teenagers in customer's household
+9. Income - customer's yearly household income
+10. MntFishProducts - the amount spent on fish products in the last 2 years
+11. MntMeatProducts - the amount spent on meat products in the last 2 years
+12. MntFruits - the amount spent on fruits products in the last 2 years
+13. MntSweetProducts - amount spent on sweet products in the last 2 years
+14. MntWines - the amount spent on wine products in the last 2 years
+15. MntGoldProds - the amount spent on gold products in the last 2 years
+16. NumDealsPurchases - number of purchases made with discount
+17. NumCatalogPurchases - number of purchases made using catalog (buying goods to be shipped through the mail)
+18. NumStorePurchases - number of purchases made directly in stores
+19. NumWebPurchases - number of purchases made through the company's website
+20. NumWebVisitsMonth - number of visits to company's website in the last month
+21. Recency - number of days since the last purchase
 
 ## Response: 
 1 if customer accepted the offer in the last campaign, 0 otherwise
